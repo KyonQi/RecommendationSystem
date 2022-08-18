@@ -13,4 +13,5 @@ Source codes are shared in the form of Colab notebook, cus You can train the mod
 
 # Poster
 We make a poster to demonstrate our work.
-@import "你的文件"
+
+@import "Rec_Sys_Poster.pdf"

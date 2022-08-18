@@ -12,8 +12,11 @@ Also, we give an visual example to show the outperformance of our revised model 
 Source codes are shared in the form of Colab notebook, cus You can train the model for free.
 
 # Poster
-We make a poster to demonstrate our work.
+We make a poster to present our work.
 
 [![vrPTV1.png](https://s1.ax1x.com/2022/08/18/vrPTV1.png)](https://imgchr.com/i/vrPTV1)
 
+# End
+The Colab codes would be sorted later if available.
 
+If you have any problems, don't hesitate to raise up **Issues** here!

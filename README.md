@@ -14,4 +14,6 @@ Source codes are shared in the form of Colab notebook, cus You can train the mod
 # Poster
 We make a poster to demonstrate our work.
 
-![Rec_Sys_Poster](./Rec_Sys_Poster.pdf){width=65%}
+<https://s1.ax1x.com/2022/08/18/vrPTV1.png>
+
+
